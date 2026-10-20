@@ -1,0 +1,12 @@
+com\shopsphere\web\AuthServlet.class
+com\shopsphere\web\AdminServlet.class
+com\shopsphere\web\CartServlet.class
+com\shopsphere\dao\ProductDAO.class
+com\shopsphere\model\Product.class
+com\shopsphere\demo\network\InventoryServer.class
+com\shopsphere\demo\serialization\SerializationDemo.class
+com\shopsphere\util\DB.class
+com\shopsphere\demo\serialization\ProductPacket.class
+com\shopsphere\demo\network\InventoryClient.class
+com\shopsphere\web\HomeServlet.class
+com\shopsphere\web\LogoutServlet.class
